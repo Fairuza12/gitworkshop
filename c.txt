@@ -1,2 +1,6 @@
 hello
+<<<<<<< HEAD
 wor5ld.n
+=======
+world
+>>>>>>> test
